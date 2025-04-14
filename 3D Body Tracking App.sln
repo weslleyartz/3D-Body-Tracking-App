@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Body Tracking App", "3D Body Tracking App.csproj", "{58D79C32-2F1C-439E-8FBE-190EDCBA54BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D79C32-2F1C-439E-8FBE-190EDCBA54BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D79C32-2F1C-439E-8FBE-190EDCBA54BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D79C32-2F1C-439E-8FBE-190EDCBA54BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D79C32-2F1C-439E-8FBE-190EDCBA54BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32E578A-C656-4C88-93BF-D49F36F15B66}
+	EndGlobalSection
+EndGlobal

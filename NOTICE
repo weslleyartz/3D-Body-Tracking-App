@@ -1,0 +1,9 @@
+﻿This project uses the MoveNet model provided by Google.
+
+Model: MoveNet - SinglePose Thunder (TensorFlow Lite)
+Source: https://www.tensorflow.org/lite/models/pose_estimation/overview
+License: Apache License 2.0
+Copyright 2021 Google LLC
+
+The model is redistributed in accordance with the Apache 2.0 License.
+See https://www.apache.org/licenses/LICENSE-2.0 for full terms.
