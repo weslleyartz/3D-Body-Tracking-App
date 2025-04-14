@@ -1,4 +1,4 @@
-﻿# BodyTracking Sync
+﻿# 3D Body Tracking App
 
 **BodyTracking Sync** é um app de body tracking em tempo real feito com .NET MAUI e TensorFlow MoveNet.  
 Ele utiliza a câmera do dispositivo Android para capturar poses humanas e sincronizar os dados com personagens 3D no Blender.
